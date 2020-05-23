@@ -1,11 +1,12 @@
 ## Write Up: Building an Estimator
 
-This Writeup.md considers the rubric points individually and describes how I addressed each rubric point in my implementation.  
-p align="center">
+<p align="center">
    
   <img width="600" height="450" src="https://user-images.githubusercontent.com/34810513/82730361-8e48c400-9d1c-11ea-8406-1f18830beb22.jpg">
   
 </p>
+
+This Writeup.md considers the rubric points individually and describes how I addressed each rubric point in my implementation.  
 ---
 ### Writeup / README
 
