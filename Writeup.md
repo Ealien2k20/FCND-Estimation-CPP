@@ -1,7 +1,11 @@
 ## Write Up: Building an Estimator
 
 This Writeup.md considers the rubric points individually and describes how I addressed each rubric point in my implementation.  
-
+p align="center">
+   
+  <img width="600" height="450" src="https://user-images.githubusercontent.com/34810513/82730361-8e48c400-9d1c-11ea-8406-1f18830beb22.jpg">
+  
+</p>
 ---
 ### Writeup / README
 
@@ -16,7 +20,7 @@ In order to calculate the standard deviation of the measurement noise, I wrote a
 
 <p align="center">
    
-  <img width="600" height="450" src="https://user-images.githubusercontent.com/34810513/82730162-5ab96a00-9d1b-11ea-8fc3-d1916d062595.gif">
+  <img width="450" height="352" src="https://user-images.githubusercontent.com/34810513/82730162-5ab96a00-9d1b-11ea-8fc3-d1916d062595.gif">
   
 </p>
 
@@ -61,7 +65,7 @@ After replacing the controller with my ideal controller, the performance of the 
 
 <p align="center">
    
-  <img width="450" height="352" src="https://user-images.githubusercontent.com/34810513/82730281-1da1a780-9d1c-11ea-9ab4-fbd35b90ef5f.gif">
+  <img width="800" height="600" src="https://user-images.githubusercontent.com/34810513/82730281-1da1a780-9d1c-11ea-9ab4-fbd35b90ef5f.gif">
   
 </p>
 
