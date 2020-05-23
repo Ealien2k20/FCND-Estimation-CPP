@@ -48,4 +48,10 @@ public:
 
   // integral control
   float integratedAltitudeError;
+private:
+float len;
+float c_bar;
+float p_bar;
+float q_bar;
+float r_bar;
 };
