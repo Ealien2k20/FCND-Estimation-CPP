@@ -13,6 +13,7 @@ The current Writeup.md (markdown) file serves the purpose of addressing how I ha
 
 #### 1. Determine the standard deviation of the measurement noise of both GPS X data and Accelerometer X data.
 
+
 #### 2. Implement a better rate gyro attitude integration scheme in the UpdateFromIMU() function.
 
 #### 3. Implement all of the elements of the prediction step for the estimator.
