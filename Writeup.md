@@ -1,4 +1,4 @@
-## Write Up: Building a Controller
+## Write Up: Building an Estimator
 
 <p align="center">
    
@@ -6,7 +6,6 @@
   
 </p>
 This Writeup.md considers the rubric points individually and describes how I addressed each rubric point in my implementation.  
-You can find the youtube video of the demo here:
 
 ---
 ### Writeup / README
