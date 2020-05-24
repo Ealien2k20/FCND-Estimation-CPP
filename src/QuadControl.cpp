@@ -32,11 +32,6 @@ void QuadControl::Init()
   kpYaw = config->Get(_config + ".kpYaw", 0);
 
   kpPQR   = config->Get(_config + ".kpPQR", V3F());
-  kpPosZ  = 19.5f;
-  kpVelZ  = 6.75f;
-  kpPosXY = 23.0f;
-  KiPosZ  = 27.0f;
-  kpVelXY = 11.0f;
   
   maxDescentRate = config->Get(_config + ".maxDescentRate", 100);
   maxAscentRate = config->Get(_config + ".maxAscentRate", 100);
